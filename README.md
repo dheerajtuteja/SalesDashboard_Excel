@@ -1,9 +1,9 @@
 # TEAM PERFORMANCE DASHBOARD
 ## Sales Dashboard using Advanced Excel Visualization
 
-__Please refer the excel sheet __Team Dashboard.xlsx__.
+__Please refer the excel sheet __Team Dashboard.xlsx__
 
-__Output Screen is shown below for reference__:
+__Output Screen is shown below for reference__
 
 __Background (Problem Statement):__
 
