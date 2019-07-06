@@ -3,4 +3,4 @@
 
 > __Output Screen is shown below for reference__:
 
-![Screenshot](https://github.com/dheerajtuteja/tableau_UKBank/blob/master/Capture1.png)
+![Screenshot](https://github.com/dheerajtuteja/SalesDashboard_Excel/blob/master/image.png)
