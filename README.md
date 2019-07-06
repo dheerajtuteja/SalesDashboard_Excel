@@ -1,2 +1,6 @@
-# SalesDashboard_Excel
-Sales Dashboard using Advanced Excel Visualization
+# TEAM PERFORMANCE DASHBOARD
+## Sales Dashboard using Advanced Excel Visualization
+
+> __Output Screen is shown below for reference__:
+
+![Screenshot](https://github.com/dheerajtuteja/tableau_UKBank/blob/master/Capture1.png)
