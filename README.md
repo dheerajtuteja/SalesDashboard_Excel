@@ -5,8 +5,9 @@ __Please refer the excel sheet - Team Dashboard.xlsx__
 
 __Output Screen is shown below for reference__
 
-__Background (Problem Statement):__
+![Screenshot](https://github.com/dheerajtuteja/SalesDashboard_Excel/blob/master/image.png)
 
+__Background (Problem Statement):__
 
 ```
 1.) Imagine a premium TV brand trying to set up an internal "Team Performance Dashboard" of their institutional sales team (B2B).
@@ -18,8 +19,6 @@ __Background (Problem Statement):__
 7.) Since this team is an Institutional Sales or Enterprise Sales (B2B), management is interested in "Sales Funnel" showcasing - Meetings Booked, Meetings Held & Sales Conversion of each team.
 8.) Lastly, there is a drop down that has team names to choose from. All KPIs will be highlighted/changed on the basis team chosen from the drop down.
 ```
-
-![Screenshot](https://github.com/dheerajtuteja/SalesDashboard_Excel/blob/master/image.png)
 
 Best,
 
